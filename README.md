@@ -5,15 +5,15 @@ This is a simple project, which visualizes and times 8 different Sorting Algorit
 
 
 ## Algorithms
-For explanation on how each Sorting Algorithm works, links below.
-  - [Heap Sort]()
-  - [Merge Sort]()
-  - [Quick Sort]()
-  - [Gnome Sort]()
-  - [Bubble Sort]()
-  - [Pancake Sort]()
-  - [Selection Sort]()
-  - [Insertion Sort]()
+Algorithms used in the Visualization project:
+  - Heap Sort
+  - Merge Sort
+  - Quick Sort
+  - Gnome Sort
+  - Bubble Sort
+  - Pancake Sort
+  - Selection Sort
+  - Insertion Sort
 ## Visualization
 
 Here is a video showcasing how the program works.
